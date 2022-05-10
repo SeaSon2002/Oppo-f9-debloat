@@ -51,6 +51,9 @@ adb shell pm uninstall --user 0 com.heytap.habit.analysis
 adb shell pm uninstall --user 0 com.zing.zalo
 adb shell pm uninstall --user 0 com.heytap.pictorial
 adb shell pm uninstall --user 0 com.google.android.youtube
+adb shell pm uninstall --user 0 com.coloros.weather.service
+adb shell pm disable-user --user 0 com.coloros.weather2
+adb shell pm uninstall --user 0 com.coloros.widget.smallweather
 
 
 adb shell pm uninstall --user 0 com.color.uiengine
