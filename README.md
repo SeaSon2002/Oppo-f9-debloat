@@ -5,6 +5,7 @@ need more checking
 
 thanks to:
 https://android.stackexchange.com/questions/56620/enable-and-disable-system-apps-via-adb
+https://gist.github.com/davidnunez/1404789
 
 
 https://gist.github.com/Surendrajat/fde325e0b066b3c78a5c0bc21d1e5114
