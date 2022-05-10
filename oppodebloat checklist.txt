@@ -67,6 +67,9 @@ adb shell pm uninstall --user 0 com.coloros.gamespace
 adb shell pm uninstall --user 0 com.heytap.cloud
 adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox
 adb shell pm uninstall --user 0 com.coloros.backuprestore
+adb shell pm uninstall --user 0 com.coloros.weather.service
+adb shell pm disable-user --user 0 com.coloros.weather2
+adb shell pm uninstall --user 0 com.coloros.widget.smallweather
 
 com.coloros.filemanager
 
