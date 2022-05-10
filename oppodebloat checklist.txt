@@ -70,7 +70,7 @@ adb shell pm uninstall --user 0 com.coloros.backuprestore
 
 com.coloros.filemanager
 
-media question?
+media related?
 
 adb shell pm uninstall --user 0 com.mediatek.sensorhub.ui
 adb shell pm uninstall --user 0 com.mediatek.lbs.em2.ui
@@ -84,7 +84,7 @@ adb shell pm uninstall --user 0 com.mediatek.mdmlsample
 adb shell pm uninstall --user 0 com.mediatek.security
 adb shell pm uninstall --user 0 com.mediatek.ims
 
-oppo ?
+oppo related?
 
 adb shell pm uninstall --user 0 com.heytap.colorfulengine
 adb shell pm uninstall --user 0 com.oppo.gestureservice
@@ -107,12 +107,14 @@ adb shell pm uninstall --user 0 com.coloros.bootreg
 adb shell pm uninstall --user 0 com.coloros.wifibackuprestore
 adb shell pm uninstall --user 0 com.coloros.healthcheck
 
+uncertain...
 com.coloros.locationproxy
 com.android.oppo.multimedia
 com.coloros.notificationmanager
 com.coloros.encryption
 com.coloros.securitykeyboard
 com.oppo.decrypt
+
 android
 adb shell pm uninstall --user 0 com.google.android.feedback
 
@@ -121,7 +123,8 @@ com.debug.loggerui
 adb shell pm uninstall --user 0 com.android.statementservice
 
 
-man wtf
+idk
+
 com.mediatek.engineermode
 com.coloros.blacklistapp
 com.coloros.blacklist
@@ -135,4 +138,5 @@ com.oppo.oppopowermonitor
 com.coloros.phonenoareainquire
 com.mediatek.gba
 
+for restoring:
 adb shell cmd package install-existing
