@@ -136,7 +136,7 @@ com.coloros.simsettings
 com.mediatek.location.lppe.main
 com.oppo.locationpicker
 com.mediatek.telephony
-com.coloros.wirelesssettings
+com.coloros.wirelesssettings - for wifi and bluetooth settings, does not work without it
 com.oppo.oppopowermonitor
 com.coloros.phonenoareainquire
 com.mediatek.gba
